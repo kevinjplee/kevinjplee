@@ -7,5 +7,4 @@
 - 🌱 I’m currently learning anything productive.
 - 📫 How to reach me: kevinjplee197@gmail.com
 
-![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevinjplee&hide=stars,commits,prs,issues,contribs)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinjplee)](https://github.com/kevinjplee/github-readme-stats)
+<!-- ![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevinjplee&hide=stars,commits,prs,issues,contribs) -->
